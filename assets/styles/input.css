@@ -1,0 +1,30 @@
+
+
+@font-face {
+
+    font-family: Poppins400;
+    src:url("./assets/fonts/Poppins-Regular.ttf"),
+     
+  }
+  @font-face {
+
+    font-family: "Poppins200";
+    src:url("./assets/fonts/Poppins-LightItalic.ttf"),
+     
+  }
+  @font-face {
+
+    font-family: "Poppins500";
+    src:url("./assets/fonts/Poppins-Medium.ttf"),
+     
+  }
+
+ ::-webkit-scrollbar {
+    display: none;}
+
+    
+  
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities
