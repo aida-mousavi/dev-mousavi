@@ -4,7 +4,6 @@
 ![Screenshot 2023-12-23 083329](https://github.com/aida-mousavi/dev-mousavi/assets/115708698/dc85f7a8-e4c5-430f-943d-0f3dc87795d7)
 ![Screenshot 2023-12-23 083421](https://github.com/aida-mousavi/dev-mousavi/assets/115708698/fefe15ab-1391-40bb-8bf9-60d2608933b2)
 
-![Screenshot 2023-12-22 175650](https://github.com/aida-mousavi/dev-mousavi/assets/115708698/406eb490-e14c-4eda-a183-bb372e5b0ee7)
 
 
 - [Demo Project](https://aida-mousavi.github.io/dev-mousavi//)
